@@ -10,7 +10,7 @@
 For using Infobip API PHP client in your project, you have to add the following to your `composer.json` file:
 
 	"require": {
-		"infobip/infobip-api-php-client": "dev-master"
+		"amunyua/infobip-api-php-client": "dev-master"
 	}
 
 and run `composer install` command inside the project's root folder.
